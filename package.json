@@ -1,5 +1,5 @@
 {
-  "name": "@shopee-data/reaction",
+  "name": "reaction",
   "version": "0.2.9",
   "description": "a react global state manager",
   "main": "lib/index.js",
@@ -9,7 +9,7 @@
     "prepublish": "npm run build",
     "eslint": "eslint --max-warnings 0 --ext .ts,.js ./"
   },
-  "author": "shopee-data",
+  "author": "lanbenhua",
   "license": "ISC",
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^4.10.0",
